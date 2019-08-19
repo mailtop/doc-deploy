@@ -7,5 +7,6 @@
 - Ruby 2.5.1
 - [Hugo](https://gohugo.io)
 - Aws CLI
+- Google Cloud CLI
 
 [Docker Hub](https://hub.docker.com/r/mailtop/doc-deploy/)
